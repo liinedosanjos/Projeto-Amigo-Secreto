@@ -28,8 +28,6 @@ Para acessar e executar o projeto, siga estas etapas:
 
 Clone o repositório ou baixe os arquivos.
 
-git clone https://github.com/liinedosanjos/sorteio-amigo-secreto.git
-
 Abra o arquivo index.html diretamente no navegador.
 
 🛠 Tecnologias Utilizadas
